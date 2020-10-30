@@ -64,7 +64,7 @@
 			</plugin>
 		</plugins>
 
-
+		<finalName>CRUD-reactjs-4S</finalName>
 	</build>
 
 </project>
